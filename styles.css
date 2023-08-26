@@ -1,0 +1,23 @@
+body{
+    width:1400px;
+}
+
+.big-img{
+    width:1400px;
+    height: 350px;
+}
+
+.small-img {
+    width: 200px;
+    height: 200px;
+}
+
+p {
+width: 100%
+}
+
+footer {
+    height: 100px;
+    text-align: center;
+    background-color: blueviolet;
+}
